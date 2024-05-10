@@ -1,0 +1,1 @@
+# andreipacheco-py_alura_ia_gemini
